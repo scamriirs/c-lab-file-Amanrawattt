@@ -1,4 +1,5 @@
-using System;
+\\Create one admisson enquiry form\\
+    using System;
 using System.Windows.Forms;
 
 public class AdmissionForm : Form

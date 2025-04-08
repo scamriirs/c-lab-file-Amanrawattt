@@ -1,4 +1,5 @@
-using System;
+\\Create a windows form with registration number,name,age,class and other details\\
+    using System;
 using System.Windows.Forms;
 
 public class RegistrationForm : Form

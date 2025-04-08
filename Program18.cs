@@ -1,4 +1,6 @@
-using System;
+\\Implement the concept in c# consisting of a delegate called student that refers to a method called student record (),your program should get the
+details of student recor and display\\
+    using System;
 
 delegate void StudentDelegate();
 

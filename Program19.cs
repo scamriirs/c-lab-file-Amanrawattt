@@ -1,4 +1,5 @@
-using System;
+\\Devlop the concept to create a class that does metric conversion from meters,centimeter to feet,inches respectively.create a class called meter.txt and raed the data  from the user by promoting.convert this dat into  feet and inches and save it in another file called feet.txt.\\
+    using System;
 using System.IO;
 
 class MetricConverter

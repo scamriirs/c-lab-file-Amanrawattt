@@ -1,5 +1,5 @@
-using System;
-
+\\Write and program to implement class and its objects\\
+    using System;
 class Student
 {
     public string Name;
